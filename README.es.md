@@ -18,11 +18,12 @@ El principal objetivo fue identificar desviaciones en la planeación, medir la d
 - DAX
 - Power Query
 - Smartsheet
+- SharePoint
 
 ---
 
 ## Integración de Datos
-El dashboard consolida información proveniente de diferentes fuentes:
+El dashboard consolida información proveniente de diferentes fuentes: 
 
 ### Smartsheet
 - Horas planeadas
@@ -34,8 +35,11 @@ El dashboard consolida información proveniente de diferentes fuentes:
 - Registros históricos operativos
 - Seguimiento de ejecución por proyecto
 
-Debido a las diferencias estructurales entre las bases de datos, fue necesario realizar procesos de transformación, limpieza y normalización de datos para relacionar correctamente la información.
+### SharePoint
+- Consulta de registros y archivos compartidos entre áreas
+- Información complementaria utilizada para validar y consolidar datos operativos
 
+Debido a las diferencias estructurales entre las fuentes de información, fue necesario realizar procesos de transformación, limpieza y normalización de datos para relacionar correctamente la información y construir un modelo analítico confiable.
 ---
 
 ## Funcionalidades del Dashboard

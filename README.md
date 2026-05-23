@@ -18,6 +18,7 @@ The main objective was to identify planning deviations, measure resource dedicat
 - DAX
 - Power Query
 - Smartsheet
+- SharePoint
 
 ---
 
@@ -34,7 +35,11 @@ The dashboard consolidates information from different data sources:
 - Historical operational records
 - Project execution tracking
 
-Due to structural differences between databases, data transformation, cleaning, and normalization processes were required to correctly relate and analyze the information.
+### SharePoint
+- Consultation of shared records and files between departments
+- Complementary information used to validate and consolidate operational data
+
+Due to structural differences between the different data sources, data transformation, cleaning, and normalization processes were required to correctly relate the information and build a reliable analytical model.
 
 ---
 
